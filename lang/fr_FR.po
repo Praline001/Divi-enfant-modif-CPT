@@ -1,0 +1,1148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Enfant\n"
+"POT-Creation-Date: 2017-07-10 15:02+0200\n"
+"PO-Revision-Date: 2017-07-10 15:02+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:393 class-tgm-plugin-activation.php:920
+#: class-tgm-plugin-activation.php:2626 class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:394 class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395 class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1027 class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:1214 class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3602 class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: custom-modules/blurb_module.php:8
+msgid "Blurb"
+msgstr ""
+
+#: custom-modules/blurb_module.php:62
+msgid "Header"
+msgstr ""
+
+#: custom-modules/blurb_module.php:68
+msgid "Body"
+msgstr ""
+
+#: custom-modules/blurb_module.php:88
+msgid "Blurb Image"
+msgstr ""
+
+#: custom-modules/blurb_module.php:92
+msgid "Blurb Title"
+msgstr ""
+
+#: custom-modules/blurb_module.php:96
+msgid "Blurb Content"
+msgstr ""
+
+#: custom-modules/blurb_module.php:106
+msgid "Top"
+msgstr ""
+
+#: custom-modules/blurb_module.php:110 custom-modules/image_module.php:207
+msgid "Left"
+msgstr ""
+
+#: custom-modules/blurb_module.php:112 custom-modules/image_module.php:209
+msgid "Right"
+msgstr ""
+
+#: custom-modules/blurb_module.php:117
+msgid "Title"
+msgstr ""
+
+#: custom-modules/blurb_module.php:120
+msgid "The title of your blurb will appear in bold below your blurb image."
+msgstr ""
+
+#: custom-modules/blurb_module.php:123
+msgid "Url"
+msgstr ""
+
+#: custom-modules/blurb_module.php:126
+msgid ""
+"If you would like to make your blurb a link, input your destination URL here."
+msgstr ""
+
+#: custom-modules/blurb_module.php:129
+#: custom-modules/fullwidth_image_module.php:99
+#: custom-modules/image_module.php:135
+msgid "Url Opens"
+msgstr ""
+
+#: custom-modules/blurb_module.php:133
+#: custom-modules/fullwidth_image_module.php:103
+#: custom-modules/image_module.php:139
+msgid "In The Same Window"
+msgstr ""
+
+#: custom-modules/blurb_module.php:134
+#: custom-modules/fullwidth_image_module.php:104
+#: custom-modules/image_module.php:140
+msgid "In The New Tab"
+msgstr ""
+
+#: custom-modules/blurb_module.php:136
+#: custom-modules/fullwidth_image_module.php:107
+#: custom-modules/image_module.php:143
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: custom-modules/blurb_module.php:139
+msgid "Use Icon"
+msgstr ""
+
+#: custom-modules/blurb_module.php:143 custom-modules/blurb_module.php:176
+#: custom-modules/blurb_module.php:197 custom-modules/blurb_module.php:285
+#: custom-modules/fullwidth_image_module.php:78
+#: custom-modules/image_module.php:114 custom-modules/image_module.php:197
+#: custom-modules/image_module.php:226 custom-modules/image_module.php:237
+msgid "No"
+msgstr ""
+
+#: custom-modules/blurb_module.php:144 custom-modules/blurb_module.php:177
+#: custom-modules/blurb_module.php:198 custom-modules/blurb_module.php:286
+#: custom-modules/fullwidth_image_module.php:79
+#: custom-modules/image_module.php:115 custom-modules/image_module.php:198
+#: custom-modules/image_module.php:227 custom-modules/image_module.php:236
+msgid "Yes"
+msgstr ""
+
+#: custom-modules/blurb_module.php:153
+msgid "Here you can choose whether icon set below should be used."
+msgstr ""
+
+#: custom-modules/blurb_module.php:156
+msgid "Icon"
+msgstr ""
+
+#: custom-modules/blurb_module.php:162
+msgid "Choose an icon to display with your blurb."
+msgstr ""
+
+#: custom-modules/blurb_module.php:166
+msgid "Icon Color"
+msgstr ""
+
+#: custom-modules/blurb_module.php:168
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: custom-modules/blurb_module.php:172
+msgid "Circle Icon"
+msgstr ""
+
+#: custom-modules/blurb_module.php:183
+msgid ""
+"Here you can choose whether icon set above should display within a circle."
+msgstr ""
+
+#: custom-modules/blurb_module.php:187
+msgid "Circle Color"
+msgstr ""
+
+#: custom-modules/blurb_module.php:189
+msgid "Here you can define a custom color for the icon circle."
+msgstr ""
+
+#: custom-modules/blurb_module.php:193
+msgid "Show Circle Border"
+msgstr ""
+
+#: custom-modules/blurb_module.php:203
+msgid "Here you can choose whether if the icon circle border should display."
+msgstr ""
+
+#: custom-modules/blurb_module.php:207
+msgid "Circle Border Color"
+msgstr ""
+
+#: custom-modules/blurb_module.php:209
+msgid "Here you can define a custom color for the icon circle border."
+msgstr ""
+
+#: custom-modules/blurb_module.php:213 custom-modules/image_module.php:7
+msgid "Image"
+msgstr ""
+
+#: custom-modules/blurb_module.php:216
+#: custom-modules/fullwidth_image_module.php:56
+#: custom-modules/image_module.php:92
+msgid "Upload an image"
+msgstr ""
+
+#: custom-modules/blurb_module.php:217
+#: custom-modules/fullwidth_image_module.php:57
+#: custom-modules/image_module.php:93
+msgid "Choose an Image"
+msgstr ""
+
+#: custom-modules/blurb_module.php:218
+#: custom-modules/fullwidth_image_module.php:58
+#: custom-modules/image_module.php:94
+msgid "Set As Image"
+msgstr ""
+
+#: custom-modules/blurb_module.php:220
+msgid "Upload an image to display at the top of your blurb."
+msgstr ""
+
+#: custom-modules/blurb_module.php:223
+msgid "Image Alt Text"
+msgstr ""
+
+#: custom-modules/blurb_module.php:226
+msgid "Define the HTML ALT text for your image here."
+msgstr ""
+
+#: custom-modules/blurb_module.php:230
+msgid "Image/Icon Placement"
+msgstr ""
+
+#: custom-modules/blurb_module.php:234
+msgid "Here you can choose where to place the icon."
+msgstr ""
+
+#: custom-modules/blurb_module.php:237
+msgid "Image/Icon Animation"
+msgstr ""
+
+#: custom-modules/blurb_module.php:241
+#: custom-modules/fullwidth_image_module.php:156
+#: custom-modules/image_module.php:62
+msgid "Top To Bottom"
+msgstr ""
+
+#: custom-modules/blurb_module.php:242
+#: custom-modules/fullwidth_image_module.php:154
+#: custom-modules/image_module.php:60
+msgid "Left To Right"
+msgstr ""
+
+#: custom-modules/blurb_module.php:243
+#: custom-modules/fullwidth_image_module.php:155
+#: custom-modules/image_module.php:61
+msgid "Right To Left"
+msgstr ""
+
+#: custom-modules/blurb_module.php:244
+#: custom-modules/fullwidth_image_module.php:157
+#: custom-modules/image_module.php:63
+msgid "Bottom To Top"
+msgstr ""
+
+#: custom-modules/blurb_module.php:245
+#: custom-modules/fullwidth_image_module.php:159
+#: custom-modules/image_module.php:65
+msgid "No Animation"
+msgstr ""
+
+#: custom-modules/blurb_module.php:247
+#: custom-modules/fullwidth_image_module.php:161
+#: custom-modules/image_module.php:190
+msgid "This controls the direction of the lazy-loading animation."
+msgstr ""
+
+#: custom-modules/blurb_module.php:250 functions.php:334
+msgid "Text Color"
+msgstr ""
+
+#: custom-modules/blurb_module.php:254 functions.php:277
+msgid "Dark"
+msgstr ""
+
+#: custom-modules/blurb_module.php:255 functions.php:276
+msgid "Light"
+msgstr ""
+
+#: custom-modules/blurb_module.php:257
+msgid ""
+"Here you can choose whether your text should be light or dark. If you are "
+"working with a dark background, then your text should be light. If your "
+"background is light, then your text should be set to dark."
+msgstr ""
+
+#: custom-modules/blurb_module.php:260
+msgid "Text Orientation"
+msgstr ""
+
+#: custom-modules/blurb_module.php:264
+msgid "This will control how your blurb text is aligned."
+msgstr ""
+
+#: custom-modules/blurb_module.php:267
+msgid "Content"
+msgstr ""
+
+#: custom-modules/blurb_module.php:270
+msgid "Input the main text content for your module here."
+msgstr ""
+
+#: custom-modules/blurb_module.php:273 custom-modules/image_module.php:214
+msgid "Image Max Width"
+msgstr ""
+
+#: custom-modules/blurb_module.php:281
+msgid "Use Icon Font Size"
+msgstr ""
+
+#: custom-modules/blurb_module.php:294
+msgid "Icon Font Size"
+msgstr ""
+
+#: custom-modules/blurb_module.php:320
+#: custom-modules/fullwidth_image_module.php:164
+#: custom-modules/image_module.php:250
+msgid "Disable on"
+msgstr ""
+
+#: custom-modules/blurb_module.php:323
+#: custom-modules/fullwidth_image_module.php:167
+#: custom-modules/image_module.php:253
+msgid "Phone"
+msgstr ""
+
+#: custom-modules/blurb_module.php:324
+#: custom-modules/fullwidth_image_module.php:168
+#: custom-modules/image_module.php:254
+msgid "Tablet"
+msgstr ""
+
+#: custom-modules/blurb_module.php:325
+#: custom-modules/fullwidth_image_module.php:169
+#: custom-modules/image_module.php:255
+msgid "Desktop"
+msgstr ""
+
+#: custom-modules/blurb_module.php:329
+#: custom-modules/fullwidth_image_module.php:173
+#: custom-modules/image_module.php:259
+msgid "This will disable the module on selected devices"
+msgstr ""
+
+#: custom-modules/blurb_module.php:332
+#: custom-modules/fullwidth_image_module.php:176
+#: custom-modules/image_module.php:262
+msgid "Admin Label"
+msgstr ""
+
+#: custom-modules/blurb_module.php:334
+#: custom-modules/fullwidth_image_module.php:178
+#: custom-modules/image_module.php:264
+msgid ""
+"This will change the label of the module in the builder for easy "
+"identification."
+msgstr ""
+
+#: custom-modules/blurb_module.php:337
+#: custom-modules/fullwidth_image_module.php:181
+#: custom-modules/image_module.php:267
+msgid "CSS ID"
+msgstr ""
+
+#: custom-modules/blurb_module.php:344
+#: custom-modules/fullwidth_image_module.php:188
+#: custom-modules/image_module.php:274
+msgid "CSS Class"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:8
+msgid "Fullwidth Image"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:53
+#: custom-modules/image_module.php:89
+msgid "Image URL"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:59
+#: custom-modules/image_module.php:95
+msgid ""
+"Upload your desired image, or type in the URL to the image you would like to "
+"display."
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:62
+#: custom-modules/image_module.php:98
+msgid "Image Alternative Text"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:65
+#: custom-modules/image_module.php:101
+msgid ""
+"This defines the HTML ALT text. A short description of your image can be "
+"placed here."
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:68
+#: custom-modules/image_module.php:104
+msgid "Image Title Text"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:71
+#: custom-modules/image_module.php:107
+msgid "This defines the HTML Title text."
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:74
+msgid "Open In Lightbox"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:86
+#: custom-modules/image_module.php:122
+msgid ""
+"Here you can choose whether or not the image should open in Lightbox. Note: "
+"if you select to open the image in Lightbox, url options below will be "
+"ignored."
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:89
+#: custom-modules/image_module.php:125
+msgid "Link URL"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:96
+#: custom-modules/image_module.php:132
+msgid ""
+"If you would like your image to be a link, input your destination URL here. "
+"No link will be created if this field is left blank."
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:110
+#: custom-modules/image_module.php:146
+msgid "Image Overlay"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:114
+#: custom-modules/image_module.php:150 functions.php:300 functions.php:309
+msgid "Off"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:115
+#: custom-modules/image_module.php:151 functions.php:301 functions.php:310
+msgid "On"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:123
+#: custom-modules/image_module.php:159
+msgid ""
+"If enabled, an overlay color and icon will be displayed when a visitors "
+"hovers over the image"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:126
+#: custom-modules/image_module.php:162
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:130
+#: custom-modules/image_module.php:166
+msgid "Here you can define a custom color for the overlay icon"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:133
+#: custom-modules/image_module.php:169
+msgid "Hover Overlay Color"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:137
+#: custom-modules/image_module.php:173
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:140
+#: custom-modules/image_module.php:176
+msgid "Hover Icon Picker"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:147
+#: custom-modules/image_module.php:183
+msgid "Here you can define a custom icon for the overlay"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:150
+#: custom-modules/image_module.php:186
+msgid "Animation"
+msgstr ""
+
+#: custom-modules/fullwidth_image_module.php:158
+#: custom-modules/image_module.php:64
+msgid "Fade In"
+msgstr ""
+
+#: custom-modules/image_module.php:110
+msgid "Open in Lightbox"
+msgstr ""
+
+#: custom-modules/image_module.php:193
+msgid "Remove Space Below The Image"
+msgstr ""
+
+#: custom-modules/image_module.php:200
+msgid ""
+"Here you can choose whether or not the image should have a space below it."
+msgstr ""
+
+#: custom-modules/image_module.php:203
+msgid "Image Alignment"
+msgstr ""
+
+#: custom-modules/image_module.php:208
+msgid "Center"
+msgstr ""
+
+#: custom-modules/image_module.php:211
+msgid "Here you can choose the image alignment."
+msgstr ""
+
+#: custom-modules/image_module.php:222
+msgid "Force Fullwidth"
+msgstr ""
+
+#: custom-modules/image_module.php:232
+msgid "Always Center Image On Mobile"
+msgstr ""
+
+#: functions.php:138
+msgid "Installer les plugins recommandés"
+msgstr ""
+
+#: functions.php:139
+msgid "Installation des Plugins"
+msgstr ""
+
+#: functions.php:140
+#, php-format
+msgid ""
+"Le plugin %1$s est recommandé pour ce thème. Cliquer sur le boutton pour "
+"installer et activer %1$s."
+msgstr ""
+
+#: functions.php:141
+#, php-format
+msgid ""
+"Le plugin %1$s est installé mais inactif. Aller à <a href=\"%2$s\">la page d "
+"administration</a> pour son activation."
+msgstr ""
+
+#: functions.php:142
+#, php-format
+msgid "Installer %s maintenant"
+msgstr ""
+
+#: functions.php:143
+#, php-format
+msgid "Installation du Plugin: %s"
+msgstr ""
+
+#: functions.php:144
+msgid "Une erreur s est produite."
+msgstr ""
+
+#: functions.php:145
+#, php-format
+msgid ""
+"Ce thème recommande le plugin %1$s. <a href=\"%2$s\"><strong>Cliquer ici "
+"pour commencer son installation</strong></a>."
+msgstr ""
+
+#: functions.php:146
+#, php-format
+msgid ""
+"Désolé, vous ne détenez pas les permissions necessaires pour installer le "
+"plugin %1$s."
+msgstr ""
+
+#: functions.php:147
+#, php-format
+msgid ""
+"Ce thème necessite le plugin %1$s. Actuellement inactif, vous devez vous "
+"rendre sur <a href=\"%2$s\">la page d administration du plugin</a> pour l "
+"activer."
+msgstr ""
+
+#: functions.php:148
+#, php-format
+msgid ""
+"Désolé, vous ne détenez pas les permissions necessaires pour activer le "
+"plugin %1$s."
+msgstr ""
+
+#: functions.php:149
+msgid "Retour à l installeur de plugins"
+msgstr ""
+
+#: functions.php:270
+msgid "Full Width"
+msgstr ""
+
+#: functions.php:271
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:272
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:285
+msgid "Page Layout"
+msgstr ""
+
+#: functions.php:297
+msgid "Dot Navigation"
+msgstr ""
+
+#: functions.php:305
+msgid "Hide Nav Before Scroll"
+msgstr ""
+
+#: functions.php:308
+msgid "Default"
+msgstr ""
+
+#: functions.php:316
+msgid "Post Title"
+msgstr ""
+
+#: functions.php:319 functions.php:352
+msgid "Show"
+msgstr ""
+
+#: functions.php:320 functions.php:351
+msgid "Hide"
+msgstr ""
+
+#: functions.php:325
+msgid "Use Background Color"
+msgstr ""
+
+#: functions.php:330
+msgid "Hex Value"
+msgstr ""
+
+#: functions.php:348
+msgid "Project Navigation"
+msgstr ""
+
+#: functions.php:372 functions.php:373
+msgid "Chocolates"
+msgstr ""
+
+#: functions.php:374
+msgid "Add New"
+msgstr ""
+
+#: functions.php:375
+msgid "Add New Chocolates"
+msgstr ""
+
+#: functions.php:376
+msgid "Edit Chocolates"
+msgstr ""
+
+#: functions.php:377
+msgid "New Chocolates"
+msgstr ""
+
+#: functions.php:378
+msgid "All Chocolates"
+msgstr ""
+
+#: functions.php:379
+msgid "View Chocolates"
+msgstr ""
+
+#: functions.php:380
+msgid "Search Chocolates"
+msgstr ""
+
+#: functions.php:381
+msgid "Nothing found"
+msgstr ""
+
+#: functions.php:382
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: functions.php:410
+msgid "Chocolate Categories"
+msgstr ""
+
+#: functions.php:411
+msgid "Chocolate Category"
+msgstr ""
+
+#: functions.php:412
+msgid "Search Categories"
+msgstr ""
+
+#: functions.php:413
+msgid "All Categories"
+msgstr ""
+
+#: functions.php:414
+msgid "Parent Category"
+msgstr ""
+
+#: functions.php:415
+msgid "Parent Category:"
+msgstr ""
+
+#: functions.php:416
+msgid "Edit Category"
+msgstr ""
+
+#: functions.php:417
+msgid "Update Category"
+msgstr ""
+
+#: functions.php:418
+msgid "Add New Category"
+msgstr ""
+
+#: functions.php:419
+msgid "New Category Name"
+msgstr ""
+
+#: functions.php:420
+msgid "Categories"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Divi Enfant"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Divi Enfant, theme enfant de Divi"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aude_Willart"
+msgstr ""
